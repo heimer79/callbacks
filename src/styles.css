@@ -1,0 +1,10 @@
+html,
+body {
+	margin: 0;
+	color: white !important;
+	background-color: rgb(208, 208, 208);
+}
+
+img {
+	width: 150px;
+}
